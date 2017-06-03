@@ -1,0 +1,15 @@
+{
+  "name": "micro-crud",
+  "version": "0.5.5",
+  "main": "index.js",
+  "author": "Tyler Snyder <tylersnyder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "micro": "^7.2.2",
+    "node-fetch": "^1.6.3"
+  },
+  "scripts": {
+    "start": "micro",
+    "test": "node index.test.js"
+  }
+}
